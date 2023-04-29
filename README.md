@@ -1,5 +1,5 @@
 <h1>Node.js API Scraper</h1>
-This repository contains code for a simple Node.js API scraper that extracts email addresses and phone numbers from a given URL or text. The API is built using the AWS Lambda serverless architecture and can be deployed to the AWS cloud using the Serverless Framework.
+This repository contains code for a simple Node.js API scraper that extracts <h4>email addresses and phone numbers</h4> from a given URL or text. The API is built using the AWS Lambda serverless architecture and can be deployed to the AWS cloud using the Serverless Framework.
 
 The scraper uses the axios library to make HTTP requests to the target URL, and the cheerio library to parse the HTML and extract email addresses and phone numbers using regular expressions. The API is built using ES module syntax and can be deployed to an AWS Lambda function using the Serverless Framework.
 
